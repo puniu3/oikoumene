@@ -1,0 +1,978 @@
+{
+  "schemaVersion": 1,
+  "tracks": [
+    {
+      "file": "arabia-ancient-001.mp3",
+      "asset": "47c4113c5c16b1257187de42cacf706ed18741447d48980cf2e7bc4f7a343cf2/arabia-ancient-001.mp3",
+      "sha256": "47c4113c5c16b1257187de42cacf706ed18741447d48980cf2e7bc4f7a343cf2",
+      "bytes": 4271332,
+      "playlist": "game"
+    },
+    {
+      "file": "arabia-ancient-002.mp3",
+      "asset": "a975ac3c887d8dd75563c1427c58349e503335594b1a9b290a5ba3ff7c6c2335/arabia-ancient-002.mp3",
+      "sha256": "a975ac3c887d8dd75563c1427c58349e503335594b1a9b290a5ba3ff7c6c2335",
+      "bytes": 4325249,
+      "playlist": "game"
+    },
+    {
+      "file": "arabia-medieval-001.mp3",
+      "asset": "381eb5d579200251c239f0aa017000cf4bc1dfe2b509026a2f68524d7958333a/arabia-medieval-001.mp3",
+      "sha256": "381eb5d579200251c239f0aa017000cf4bc1dfe2b509026a2f68524d7958333a",
+      "bytes": 4311457,
+      "playlist": "game"
+    },
+    {
+      "file": "arabia-medieval-002.mp3",
+      "asset": "94dc79b5e0a2f7c2789d63d3d094b66271bf0b86ef2c877cccbbaca235f1e45f/arabia-medieval-002.mp3",
+      "sha256": "94dc79b5e0a2f7c2789d63d3d094b66271bf0b86ef2c877cccbbaca235f1e45f",
+      "bytes": 4317726,
+      "playlist": "game"
+    },
+    {
+      "file": "arabia-modern-001.mp3",
+      "asset": "b9d424093950dbab7d62ad386b090775b6398e802b9c1aaf39263a46bd6cc4d8/arabia-modern-001.mp3",
+      "sha256": "b9d424093950dbab7d62ad386b090775b6398e802b9c1aaf39263a46bd6cc4d8",
+      "bytes": 3851284,
+      "playlist": "game"
+    },
+    {
+      "file": "arabia-modern-002.mp3",
+      "asset": "cc20f9299725ca43f2ae087b3c5466d6287c27512580ff1e516ea43445478a9f/arabia-modern-002.mp3",
+      "sha256": "cc20f9299725ca43f2ae087b3c5466d6287c27512580ff1e516ea43445478a9f",
+      "bytes": 4246882,
+      "playlist": "game"
+    },
+    {
+      "file": "assyria-ancient-001.mp3",
+      "asset": "69f328eb1f768e10c44900020069d64da24a3d181487ee51bed23f56fb324cbf/assyria-ancient-001.mp3",
+      "sha256": "69f328eb1f768e10c44900020069d64da24a3d181487ee51bed23f56fb324cbf",
+      "bytes": 4312710,
+      "playlist": "game"
+    },
+    {
+      "file": "assyria-ancient-002.mp3",
+      "asset": "a99626cb37bae9dd9a36ecb1f00ba2a96278c5b4f5798cae45fe54406ea7579f/assyria-ancient-002.mp3",
+      "sha256": "a99626cb37bae9dd9a36ecb1f00ba2a96278c5b4f5798cae45fe54406ea7579f",
+      "bytes": 4242493,
+      "playlist": "game"
+    },
+    {
+      "file": "assyria-medieval-001.mp3",
+      "asset": "59280bdd8b5d13af8247c1bfd0c2d369b6fa8251317d2ef2dba0158e76873677/assyria-medieval-001.mp3",
+      "sha256": "59280bdd8b5d13af8247c1bfd0c2d369b6fa8251317d2ef2dba0158e76873677",
+      "bytes": 3849403,
+      "playlist": "game"
+    },
+    {
+      "file": "assyria-medieval-002.mp3",
+      "asset": "fa8c7e547ad709a3dfd7f573a4d2eb42273970ab2ceb480d4521a81a42d89287/assyria-medieval-002.mp3",
+      "sha256": "fa8c7e547ad709a3dfd7f573a4d2eb42273970ab2ceb480d4521a81a42d89287",
+      "bytes": 3877615,
+      "playlist": "game"
+    },
+    {
+      "file": "assyria-modern-001.mp3",
+      "asset": "63fcaa00c404490fc983ce9bc395bd5febf03fd743c2548a5176067bc5d560f9/assyria-modern-001.mp3",
+      "sha256": "63fcaa00c404490fc983ce9bc395bd5febf03fd743c2548a5176067bc5d560f9",
+      "bytes": 4338415,
+      "playlist": "game"
+    },
+    {
+      "file": "assyria-modern-002.mp3",
+      "asset": "159d2ada1bca08806b2649e9bb4361d871849c88acae9b7f8608368516d9f494/assyria-modern-002.mp3",
+      "sha256": "159d2ada1bca08806b2649e9bb4361d871849c88acae9b7f8608368516d9f494",
+      "bytes": 4315845,
+      "playlist": "game"
+    },
+    {
+      "file": "aztec-ancient-001.mp3",
+      "asset": "41109988c23ac2c60727f0aacfb6d18fca78695355e2a933c7d99b0f26e1e734/aztec-ancient-001.mp3",
+      "sha256": "41109988c23ac2c60727f0aacfb6d18fca78695355e2a933c7d99b0f26e1e734",
+      "bytes": 4186696,
+      "playlist": "game"
+    },
+    {
+      "file": "aztec-ancient-002.mp3",
+      "asset": "36bf819ab350f354629eabd819d2efbc61f784949b317c0c3689288357c41ca8/aztec-ancient-002.mp3",
+      "sha256": "36bf819ab350f354629eabd819d2efbc61f784949b317c0c3689288357c41ca8",
+      "bytes": 4329011,
+      "playlist": "game"
+    },
+    {
+      "file": "aztec-medieval-001.mp3",
+      "asset": "4ebab89174024a00b071f9bb961e2ae8391b3809b7a83547f6287d49745175a7/aztec-medieval-001.mp3",
+      "sha256": "4ebab89174024a00b071f9bb961e2ae8391b3809b7a83547f6287d49745175a7",
+      "bytes": 4168515,
+      "playlist": "game"
+    },
+    {
+      "file": "aztec-medieval-002.mp3",
+      "asset": "b00ccfc399f8b7a31b4ab1f932b94e181ea4809311522e09e7eb9a957efea1dc/aztec-medieval-002.mp3",
+      "sha256": "b00ccfc399f8b7a31b4ab1f932b94e181ea4809311522e09e7eb9a957efea1dc",
+      "bytes": 3708968,
+      "playlist": "game"
+    },
+    {
+      "file": "aztec-modern-001.mp3",
+      "asset": "4e429fcd191b6ea61cf6636722e3c2778b654b906d946f84605032569760e31e/aztec-modern-001.mp3",
+      "sha256": "4e429fcd191b6ea61cf6636722e3c2778b654b906d946f84605032569760e31e",
+      "bytes": 4179799,
+      "playlist": "game"
+    },
+    {
+      "file": "aztec-modern-002.mp3",
+      "asset": "fdb02075fd2fa0da60cf0dbc73f6f22d9177d6aeac47cebb2401f351957cd6b2/aztec-modern-002.mp3",
+      "sha256": "fdb02075fd2fa0da60cf0dbc73f6f22d9177d6aeac47cebb2401f351957cd6b2",
+      "bytes": 4218670,
+      "playlist": "game"
+    },
+    {
+      "file": "babylon-ancient-001.mp3",
+      "asset": "53354697d4ef03c536980eab19c6c5ef927eb43a66dd97fa7449a6e989b5c683/babylon-ancient-001.mp3",
+      "sha256": "53354697d4ef03c536980eab19c6c5ef927eb43a66dd97fa7449a6e989b5c683",
+      "bytes": 4221804,
+      "playlist": "game"
+    },
+    {
+      "file": "babylon-ancient-002.mp3",
+      "asset": "150b952cc92fac6973688efdf95ec3b397381a78e0c58cdac2c76aff08797d6d/babylon-ancient-002.mp3",
+      "sha256": "150b952cc92fac6973688efdf95ec3b397381a78e0c58cdac2c76aff08797d6d",
+      "bytes": 4297664,
+      "playlist": "game"
+    },
+    {
+      "file": "babylon-medieval-001.mp3",
+      "asset": "c1a5c9b4b9dc5a37ba0648414420080b47697f3aebb71d3f826cc875584c045d/babylon-medieval-001.mp3",
+      "sha256": "c1a5c9b4b9dc5a37ba0648414420080b47697f3aebb71d3f826cc875584c045d",
+      "bytes": 4307695,
+      "playlist": "game"
+    },
+    {
+      "file": "babylon-medieval-002.mp3",
+      "asset": "3697412a0ded1cc97e1d867ef9988fb40f4b6a741bedd794e1e10d46245c245f/babylon-medieval-002.mp3",
+      "sha256": "3697412a0ded1cc97e1d867ef9988fb40f4b6a741bedd794e1e10d46245c245f",
+      "bytes": 4249390,
+      "playlist": "game"
+    },
+    {
+      "file": "babylon-modern-001.mp3",
+      "asset": "b3779fd0961ea985a8775dc9a1290ce2b488c7f3bcb59f60c9a8b25cce619bcb/babylon-modern-001.mp3",
+      "sha256": "b3779fd0961ea985a8775dc9a1290ce2b488c7f3bcb59f60c9a8b25cce619bcb",
+      "bytes": 4297037,
+      "playlist": "game"
+    },
+    {
+      "file": "babylon-modern-002.mp3",
+      "asset": "2b7c326df53c4fb6a92d37e130dc6c39555a8112d2f4374726980b6ea3ed0e6a/babylon-modern-002.mp3",
+      "sha256": "2b7c326df53c4fb6a92d37e130dc6c39555a8112d2f4374726980b6ea3ed0e6a",
+      "bytes": 2902098,
+      "playlist": "game"
+    },
+    {
+      "file": "britannia-ancient-001.mp3",
+      "asset": "4e8cb970f71b96ed9588cf1c1bb4cff1b7e1c8db333af66ec9f75835df147437/britannia-ancient-001.mp3",
+      "sha256": "4e8cb970f71b96ed9588cf1c1bb4cff1b7e1c8db333af66ec9f75835df147437",
+      "bytes": 4006137,
+      "playlist": "game"
+    },
+    {
+      "file": "britannia-ancient-002.mp3",
+      "asset": "b647d30213ba6b1e48e3639355ad06820ff0669e41c943b990883c41dd8009b8/britannia-ancient-002.mp3",
+      "sha256": "b647d30213ba6b1e48e3639355ad06820ff0669e41c943b990883c41dd8009b8",
+      "bytes": 4261301,
+      "playlist": "game"
+    },
+    {
+      "file": "britannia-medieval-001.mp3",
+      "asset": "8ea92565afaea275cdde121a7d0f08880be1e5510ac460928cbf025677ca3872/britannia-medieval-001.mp3",
+      "sha256": "8ea92565afaea275cdde121a7d0f08880be1e5510ac460928cbf025677ca3872",
+      "bytes": 2841912,
+      "playlist": "game"
+    },
+    {
+      "file": "britannia-medieval-002.mp3",
+      "asset": "f9c0cdf81d2453f99bdefc322152cb5872ed9fe9c5e9cb6241cd48e7075775fa/britannia-medieval-002.mp3",
+      "sha256": "f9c0cdf81d2453f99bdefc322152cb5872ed9fe9c5e9cb6241cd48e7075775fa",
+      "bytes": 4310830,
+      "playlist": "game"
+    },
+    {
+      "file": "britannia-modern-001.mp3",
+      "asset": "bac01a7bd98bb0fa57f150696ff1de3e1f59273b9560e0f742730e41196ccc7b/britannia-modern-001.mp3",
+      "sha256": "bac01a7bd98bb0fa57f150696ff1de3e1f59273b9560e0f742730e41196ccc7b",
+      "bytes": 3796113,
+      "playlist": "game"
+    },
+    {
+      "file": "britannia-modern-002.mp3",
+      "asset": "fe8388552442947cbfb958e1cd57adc5e5e2d35c0daddf5e66ec0c4e5ed11e91/britannia-modern-002.mp3",
+      "sha256": "fe8388552442947cbfb958e1cd57adc5e5e2d35c0daddf5e66ec0c4e5ed11e91",
+      "bytes": 4292021,
+      "playlist": "game"
+    },
+    {
+      "file": "china-ancient-001.mp3",
+      "asset": "95ecbb0c27258c1448b11aff01ceabe6773250585864f03320bc9bcd17680ee0/china-ancient-001.mp3",
+      "sha256": "95ecbb0c27258c1448b11aff01ceabe6773250585864f03320bc9bcd17680ee0",
+      "bytes": 4330892,
+      "playlist": "game"
+    },
+    {
+      "file": "china-ancient-002.mp3",
+      "asset": "218789452589af23131745fb2cad7a3944d6de24dd629a25ecbb9399e0e835f8/china-ancient-002.mp3",
+      "sha256": "218789452589af23131745fb2cad7a3944d6de24dd629a25ecbb9399e0e835f8",
+      "bytes": 4258167,
+      "playlist": "game"
+    },
+    {
+      "file": "china-medieval-001.mp3",
+      "asset": "25083fe5b1727c23f024a3cb8e8a87e6215a15b48ba63ed231d5f940c48d1576/china-medieval-001.mp3",
+      "sha256": "25083fe5b1727c23f024a3cb8e8a87e6215a15b48ba63ed231d5f940c48d1576",
+      "bytes": 3734046,
+      "playlist": "game"
+    },
+    {
+      "file": "china-medieval-002.mp3",
+      "asset": "96889ef9d481c8b542743d3f02aa7ac0e7a22d9923f1e79f4727be1933887cf2/china-medieval-002.mp3",
+      "sha256": "96889ef9d481c8b542743d3f02aa7ac0e7a22d9923f1e79f4727be1933887cf2",
+      "bytes": 4264436,
+      "playlist": "game"
+    },
+    {
+      "file": "china-modern-001.mp3",
+      "asset": "26c1360d7257a62551eba2d695b5cd93b35e28f275ff7c4309a46de4edf658e8/china-modern-001.mp3",
+      "sha256": "26c1360d7257a62551eba2d695b5cd93b35e28f275ff7c4309a46de4edf658e8",
+      "bytes": 4218043,
+      "playlist": "game"
+    },
+    {
+      "file": "china-modern-002.mp3",
+      "asset": "18fccc2ccf963c62f3e969222d104722842044d70af1d1382224da336ff917c4/china-modern-002.mp3",
+      "sha256": "18fccc2ccf963c62f3e969222d104722842044d70af1d1382224da336ff917c4",
+      "bytes": 4273840,
+      "playlist": "game"
+    },
+    {
+      "file": "egypt-ancient-001.mp3",
+      "asset": "17dfd3fa53b331c56d674f8fdec1f4f54346a76027ddf4b37b0cfdc0ac1d2c5d/egypt-ancient-001.mp3",
+      "sha256": "17dfd3fa53b331c56d674f8fdec1f4f54346a76027ddf4b37b0cfdc0ac1d2c5d",
+      "bytes": 3875107,
+      "playlist": "game"
+    },
+    {
+      "file": "egypt-ancient-002.mp3",
+      "asset": "dd8cf4697bb8fd3bd268ce5f8d53905d44509cfafa1c02c558e78e709574e21f/egypt-ancient-002.mp3",
+      "sha256": "dd8cf4697bb8fd3bd268ce5f8d53905d44509cfafa1c02c558e78e709574e21f",
+      "bytes": 3705834,
+      "playlist": "game"
+    },
+    {
+      "file": "egypt-medieval-001.mp3",
+      "asset": "47d52f622542fdde02399c7ca5136b8bcf0f8297bf4154aafc8d211f8a208c0c/egypt-medieval-001.mp3",
+      "sha256": "47d52f622542fdde02399c7ca5136b8bcf0f8297bf4154aafc8d211f8a208c0c",
+      "bytes": 4300799,
+      "playlist": "game"
+    },
+    {
+      "file": "egypt-medieval-002.mp3",
+      "asset": "eb18059e6ed2ffab3a4be7737fc3363dcb3f4d42f3878d8fdc9a245de8e00f6e/egypt-medieval-002.mp3",
+      "sha256": "eb18059e6ed2ffab3a4be7737fc3363dcb3f4d42f3878d8fdc9a245de8e00f6e",
+      "bytes": 4215535,
+      "playlist": "game"
+    },
+    {
+      "file": "egypt-modern-001.mp3",
+      "asset": "78245a78543e9b2b94bb50b29672c38fc02fc238659bb02037fcd34954e82245/egypt-modern-001.mp3",
+      "sha256": "78245a78543e9b2b94bb50b29672c38fc02fc238659bb02037fcd34954e82245",
+      "bytes": 4371643,
+      "playlist": "game"
+    },
+    {
+      "file": "egypt-modern-002.mp3",
+      "asset": "67920a9516b8f954469243b0e8749c9db6df60b229e98fbae2eab1cfca50797c/egypt-modern-002.mp3",
+      "sha256": "67920a9516b8f954469243b0e8749c9db6df60b229e98fbae2eab1cfca50797c",
+      "bytes": 4359104,
+      "playlist": "game"
+    },
+    {
+      "file": "ethiopia-ancient-001.mp3",
+      "asset": "8ca708ed864d4753598d5bc0cbe38ab428f0af36298164ecfd339f1e7428404d/ethiopia-ancient-001.mp3",
+      "sha256": "8ca708ed864d4753598d5bc0cbe38ab428f0af36298164ecfd339f1e7428404d",
+      "bytes": 3806771,
+      "playlist": "game"
+    },
+    {
+      "file": "ethiopia-ancient-002.mp3",
+      "asset": "c717d14ff2fd6be736734835f8a0973b35f4ac2f804afaeced54b6cf52d19fbe/ethiopia-ancient-002.mp3",
+      "sha256": "c717d14ff2fd6be736734835f8a0973b35f4ac2f804afaeced54b6cf52d19fbe",
+      "bytes": 4331519,
+      "playlist": "game"
+    },
+    {
+      "file": "ethiopia-medieval-001.mp3",
+      "asset": "cf5421f2efb958ac8a8944b057a3d05256adf9a3f7a4c9ceba53182dd7fe1274/ethiopia-medieval-001.mp3",
+      "sha256": "cf5421f2efb958ac8a8944b057a3d05256adf9a3f7a4c9ceba53182dd7fe1274",
+      "bytes": 4238105,
+      "playlist": "game"
+    },
+    {
+      "file": "ethiopia-medieval-002.mp3",
+      "asset": "b14fa1c3346dc4f3d5a01ea5ef0bf8733ca314f3ed0212743a9e7a125c07808d/ethiopia-medieval-002.mp3",
+      "sha256": "b14fa1c3346dc4f3d5a01ea5ef0bf8733ca314f3ed0212743a9e7a125c07808d",
+      "bytes": 4256286,
+      "playlist": "game"
+    },
+    {
+      "file": "ethiopia-modern-001.mp3",
+      "asset": "321d745208ed9a4e01124145a91ae60c46ef464c85976c6470a0fc312f112303/ethiopia-modern-001.mp3",
+      "sha256": "321d745208ed9a4e01124145a91ae60c46ef464c85976c6470a0fc312f112303",
+      "bytes": 4330265,
+      "playlist": "game"
+    },
+    {
+      "file": "ethiopia-modern-002.mp3",
+      "asset": "b8f3b82b832d57a3f9ce80685e80822f5219ac13093af424eee277af2305c7fe/ethiopia-modern-002.mp3",
+      "sha256": "b8f3b82b832d57a3f9ce80685e80822f5219ac13093af424eee277af2305c7fe",
+      "bytes": 4223058,
+      "playlist": "game"
+    },
+    {
+      "file": "francia-ancient-001.mp3",
+      "asset": "8849d6684377c2ea505fd911746aaa85c9755f7552a779010470a8aa7d6adda0/francia-ancient-001.mp3",
+      "sha256": "8849d6684377c2ea505fd911746aaa85c9755f7552a779010470a8aa7d6adda0",
+      "bytes": 4310203,
+      "playlist": "game"
+    },
+    {
+      "file": "francia-ancient-002.mp3",
+      "asset": "6b1a22d33f16f4475647beeaee7cbaa8de58b4a915058f1e7797f2b5fc83ad0b/francia-ancient-002.mp3",
+      "sha256": "6b1a22d33f16f4475647beeaee7cbaa8de58b4a915058f1e7797f2b5fc83ad0b",
+      "bytes": 3752227,
+      "playlist": "game"
+    },
+    {
+      "file": "francia-medieval-001.mp3",
+      "asset": "206668bc89693594bc41d0ead053c922b5dcdb34827f1a944ccf71cae92c743f/francia-medieval-001.mp3",
+      "sha256": "206668bc89693594bc41d0ead053c922b5dcdb34827f1a944ccf71cae92c743f",
+      "bytes": 3687026,
+      "playlist": "game"
+    },
+    {
+      "file": "francia-medieval-002.mp3",
+      "asset": "6dc0ba677e6f5799f38398fde18fc0f2209e838c291644026d5844508887d2cb/francia-medieval-002.mp3",
+      "sha256": "6dc0ba677e6f5799f38398fde18fc0f2209e838c291644026d5844508887d2cb",
+      "bytes": 3834356,
+      "playlist": "game"
+    },
+    {
+      "file": "francia-modern-001.mp3",
+      "asset": "b1eec666f634cb427daa78fad20462152e6c96086674f1259fad462e7b79d72c/francia-modern-001.mp3",
+      "sha256": "b1eec666f634cb427daa78fad20462152e6c96086674f1259fad462e7b79d72c",
+      "bytes": 4299545,
+      "playlist": "game"
+    },
+    {
+      "file": "francia-modern-002.mp3",
+      "asset": "5015059f5567e60321a53401ebbceb080e706f3c824e5ac6a4e978635a46eb5c/francia-modern-002.mp3",
+      "sha256": "5015059f5567e60321a53401ebbceb080e706f3c824e5ac6a4e978635a46eb5c",
+      "bytes": 4349073,
+      "playlist": "game"
+    },
+    {
+      "file": "greece-ancient-001.mp3",
+      "asset": "b797e2bdef9156cde24a144566f796c2198d51631744d513b7f01c24c8d22a24/greece-ancient-001.mp3",
+      "sha256": "b797e2bdef9156cde24a144566f796c2198d51631744d513b7f01c24c8d22a24",
+      "bytes": 4344684,
+      "playlist": "game"
+    },
+    {
+      "file": "greece-ancient-002.mp3",
+      "asset": "af020af6b1f0f74209856e5392cdeb8c215c4ef0a38e241a11b1b9778fda639d/greece-ancient-002.mp3",
+      "sha256": "af020af6b1f0f74209856e5392cdeb8c215c4ef0a38e241a11b1b9778fda639d",
+      "bytes": 4296410,
+      "playlist": "game"
+    },
+    {
+      "file": "greece-medieval-001.mp3",
+      "asset": "929080cb6cced31ebd4eedf02169d9e012fa7df018ddaa30b89dc751fa007566/greece-medieval-001.mp3",
+      "sha256": "929080cb6cced31ebd4eedf02169d9e012fa7df018ddaa30b89dc751fa007566",
+      "bytes": 4317726,
+      "playlist": "game"
+    },
+    {
+      "file": "greece-medieval-002.mp3",
+      "asset": "4080b73d91c9ce75075f63d079f4c71d39280f19d87a1e448241048dabc18e83/greece-medieval-002.mp3",
+      "sha256": "4080b73d91c9ce75075f63d079f4c71d39280f19d87a1e448241048dabc18e83",
+      "bytes": 4271959,
+      "playlist": "game"
+    },
+    {
+      "file": "greece-modern-001.mp3",
+      "asset": "54c3f85264f99dde7a1f32856936633521364b9f37afe6f462d5797891c57f01/greece-modern-001.mp3",
+      "sha256": "54c3f85264f99dde7a1f32856936633521364b9f37afe6f462d5797891c57f01",
+      "bytes": 4298291,
+      "playlist": "game"
+    },
+    {
+      "file": "greece-modern-002.mp3",
+      "asset": "319f010c426fbc51df0485a2bd86b6db0f9a946369a8db9153cec5288896ca0a/greece-modern-002.mp3",
+      "sha256": "319f010c426fbc51df0485a2bd86b6db0f9a946369a8db9153cec5288896ca0a",
+      "bytes": 3836237,
+      "playlist": "game"
+    },
+    {
+      "file": "hittite-ancient-001.mp3",
+      "asset": "444d8b710cf37f4c04b9c631e92d5680b4d6baf9d000b2de91948dbb5b468556/hittite-ancient-001.mp3",
+      "sha256": "444d8b710cf37f4c04b9c631e92d5680b4d6baf9d000b2de91948dbb5b468556",
+      "bytes": 4270079,
+      "playlist": "game"
+    },
+    {
+      "file": "hittite-ancient-002.mp3",
+      "asset": "300fa8525ba0a490c5098effd1d78cc317caf467c84ab97b9157302e1abc7026/hittite-ancient-002.mp3",
+      "sha256": "300fa8525ba0a490c5098effd1d78cc317caf467c84ab97b9157302e1abc7026",
+      "bytes": 4274467,
+      "playlist": "game"
+    },
+    {
+      "file": "hittite-medieval-001.mp3",
+      "asset": "f585f02a802ecb08475dc1aaf49e39f4d731793915da81ce864f8c49493b9ab4/hittite-medieval-001.mp3",
+      "sha256": "f585f02a802ecb08475dc1aaf49e39f4d731793915da81ce864f8c49493b9ab4",
+      "bytes": 3824325,
+      "playlist": "game"
+    },
+    {
+      "file": "hittite-medieval-002.mp3",
+      "asset": "c649852df457323caeb7f75dc6a8eed2a0c06d6acd992d53a8391f83f7b4e1b2/hittite-medieval-002.mp3",
+      "sha256": "c649852df457323caeb7f75dc6a8eed2a0c06d6acd992d53a8391f83f7b4e1b2",
+      "bytes": 4301426,
+      "playlist": "game"
+    },
+    {
+      "file": "hittite-modern-001.mp3",
+      "asset": "8f727be222a5f0cff613d1fa4403f3a857953e28d4050610869494c7703cac82/hittite-modern-001.mp3",
+      "sha256": "8f727be222a5f0cff613d1fa4403f3a857953e28d4050610869494c7703cac82",
+      "bytes": 4317099,
+      "playlist": "game"
+    },
+    {
+      "file": "hittite-modern-002.mp3",
+      "asset": "aa83bdd05e3fa4f8ae92aea68e7459960aad16cea64b148e0b281bc59fa8bf5a/hittite-modern-002.mp3",
+      "sha256": "aa83bdd05e3fa4f8ae92aea68e7459960aad16cea64b148e0b281bc59fa8bf5a",
+      "bytes": 4276975,
+      "playlist": "game"
+    },
+    {
+      "file": "inca-ancient-001.mp3",
+      "asset": "a7c750d4f5b21332d00a7257852c617d24ef8edbe6df1eeecdc6b1ca897246f6/inca-ancient-001.mp3",
+      "sha256": "a7c750d4f5b21332d00a7257852c617d24ef8edbe6df1eeecdc6b1ca897246f6",
+      "bytes": 3989837,
+      "playlist": "game"
+    },
+    {
+      "file": "inca-ancient-002.mp3",
+      "asset": "3b852feea0eb34d8765c4badfc006733e709eeb30d8912f51a9f4593e1a72e6c/inca-ancient-002.mp3",
+      "sha256": "3b852feea0eb34d8765c4badfc006733e709eeb30d8912f51a9f4593e1a72e6c",
+      "bytes": 3836237,
+      "playlist": "game"
+    },
+    {
+      "file": "inca-medieval-001.mp3",
+      "asset": "7b10207d5cc14c7106c4adbab16d8b8ff8e4fe1a27ddbc7431701a04b2c95fcd/inca-medieval-001.mp3",
+      "sha256": "7b10207d5cc14c7106c4adbab16d8b8ff8e4fe1a27ddbc7431701a04b2c95fcd",
+      "bytes": 4340923,
+      "playlist": "game"
+    },
+    {
+      "file": "inca-medieval-002.mp3",
+      "asset": "65e985593e351c61f5c12ea188d0468964bf8e4e3f5ce854821df6b120e8070e/inca-medieval-002.mp3",
+      "sha256": "65e985593e351c61f5c12ea188d0468964bf8e4e3f5ce854821df6b120e8070e",
+      "bytes": 4292021,
+      "playlist": "game"
+    },
+    {
+      "file": "inca-modern-001.mp3",
+      "asset": "0638976ba7f924c9198926852b583249185e65ba8b10a94e9cabdb8e8c0f3765/inca-modern-001.mp3",
+      "sha256": "0638976ba7f924c9198926852b583249185e65ba8b10a94e9cabdb8e8c0f3765",
+      "bytes": 3838745,
+      "playlist": "game"
+    },
+    {
+      "file": "inca-modern-002.mp3",
+      "asset": "f0d8485d0a1fd3b4f0402d2ac5a78b1194740037cf2475d183385057f79debe7/inca-modern-002.mp3",
+      "sha256": "f0d8485d0a1fd3b4f0402d2ac5a78b1194740037cf2475d183385057f79debe7",
+      "bytes": 4109582,
+      "playlist": "game"
+    },
+    {
+      "file": "india-ancient-001.mp3",
+      "asset": "2489a9294ab81c70cd30e65515c41da173293802bd7facb1a23c7489915b0ea8/india-ancient-001.mp3",
+      "sha256": "2489a9294ab81c70cd30e65515c41da173293802bd7facb1a23c7489915b0ea8",
+      "bytes": 3839999,
+      "playlist": "game"
+    },
+    {
+      "file": "india-ancient-002.mp3",
+      "asset": "ecb9c0d3cdeedf63395ca377bcab51fe57b1cc261dc516c0e58b012ac4aa2317/india-ancient-002.mp3",
+      "sha256": "ecb9c0d3cdeedf63395ca377bcab51fe57b1cc261dc516c0e58b012ac4aa2317",
+      "bytes": 3702072,
+      "playlist": "game"
+    },
+    {
+      "file": "india-medieval-001.mp3",
+      "asset": "fc0a296a28d3fe11c38594c262f2d34da5b5583f64cb4a60e99a66930b9dcb8f/india-medieval-001.mp3",
+      "sha256": "fc0a296a28d3fe11c38594c262f2d34da5b5583f64cb4a60e99a66930b9dcb8f",
+      "bytes": 4247509,
+      "playlist": "game"
+    },
+    {
+      "file": "india-medieval-002.mp3",
+      "asset": "c10b8699a5605afc7ee488f0e57a3e4db7edc56db7aa0a19b9bfbd0410b37d5b/india-medieval-002.mp3",
+      "sha256": "c10b8699a5605afc7ee488f0e57a3e4db7edc56db7aa0a19b9bfbd0410b37d5b",
+      "bytes": 4298291,
+      "playlist": "game"
+    },
+    {
+      "file": "india-modern-001.mp3",
+      "asset": "73ffa9b72115562db49a31d1dd4f4a97ba1e8ee865c491f2510ccc099a2e3ebe/india-modern-001.mp3",
+      "sha256": "73ffa9b72115562db49a31d1dd4f4a97ba1e8ee865c491f2510ccc099a2e3ebe",
+      "bytes": 2786115,
+      "playlist": "game"
+    },
+    {
+      "file": "india-modern-002.mp3",
+      "asset": "7b0f1030af3bca41e660992c3544788f98d5b742694b33a2305892726eda15bd/india-modern-002.mp3",
+      "sha256": "7b0f1030af3bca41e660992c3544788f98d5b742694b33a2305892726eda15bd",
+      "bytes": 4287633,
+      "playlist": "game"
+    },
+    {
+      "file": "japan-ancient-001.mp3",
+      "asset": "9da3f80a118a7f38374455d80454eca44be343b7c24ffd6d250086b04ed74ee8/japan-ancient-001.mp3",
+      "sha256": "9da3f80a118a7f38374455d80454eca44be343b7c24ffd6d250086b04ed74ee8",
+      "bytes": 4300799,
+      "playlist": "game"
+    },
+    {
+      "file": "japan-ancient-002.mp3",
+      "asset": "ae39acb08c3340e949d7c2b46bd46f2fa6a73196095908243baf3c8be9d689ad/japan-ancient-002.mp3",
+      "sha256": "ae39acb08c3340e949d7c2b46bd46f2fa6a73196095908243baf3c8be9d689ad",
+      "bytes": 4295156,
+      "playlist": "game"
+    },
+    {
+      "file": "japan-medieval-001.mp3",
+      "asset": "6534ec101cd72d057c30aec6f44bcd68036c52b32f3605d121a67395d49ff87f/japan-medieval-001.mp3",
+      "sha256": "6534ec101cd72d057c30aec6f44bcd68036c52b32f3605d121a67395d49ff87f",
+      "bytes": 3814921,
+      "playlist": "game"
+    },
+    {
+      "file": "japan-medieval-002.mp3",
+      "asset": "46fd12b2accb2ac22930c11bec596a70cfb3fa5ba0daffc820acaecb8162638e/japan-medieval-002.mp3",
+      "sha256": "46fd12b2accb2ac22930c11bec596a70cfb3fa5ba0daffc820acaecb8162638e",
+      "bytes": 4344684,
+      "playlist": "game"
+    },
+    {
+      "file": "japan-modern-001.mp3",
+      "asset": "14f543079996df1aa2664e2e6677f8556adabc5a0c56a214304263ef2f5d61c3/japan-modern-001.mp3",
+      "sha256": "14f543079996df1aa2664e2e6677f8556adabc5a0c56a214304263ef2f5d61c3",
+      "bytes": 4247509,
+      "playlist": "game"
+    },
+    {
+      "file": "japan-modern-002.mp3",
+      "asset": "153be40f6e5c0ccdb1c784cd6e8da2bfa96a2f3064dbeaa487bbe5da906c9fb3/japan-modern-002.mp3",
+      "sha256": "153be40f6e5c0ccdb1c784cd6e8da2bfa96a2f3064dbeaa487bbe5da906c9fb3",
+      "bytes": 4297037,
+      "playlist": "game"
+    },
+    {
+      "file": "khmer-ancient-001.mp3",
+      "asset": "7df995b732bc16559cfe9779fceb68d302abd589d3dce0b825aafde737d3002f/khmer-ancient-001.mp3",
+      "sha256": "7df995b732bc16559cfe9779fceb68d302abd589d3dce0b825aafde737d3002f",
+      "bytes": 4256286,
+      "playlist": "game"
+    },
+    {
+      "file": "khmer-ancient-002.mp3",
+      "asset": "8ef10d0801d5b75153a83cdfcc5d169a322bb7130d34c42d2660e1be178da5bf/khmer-ancient-002.mp3",
+      "sha256": "8ef10d0801d5b75153a83cdfcc5d169a322bb7130d34c42d2660e1be178da5bf",
+      "bytes": 4115852,
+      "playlist": "game"
+    },
+    {
+      "file": "khmer-medieval-001.mp3",
+      "asset": "03571f4896d14ba0592907cbd2612777c63709de4af2ad43925cd074859b120a/khmer-medieval-001.mp3",
+      "sha256": "03571f4896d14ba0592907cbd2612777c63709de4af2ad43925cd074859b120a",
+      "bytes": 4334653,
+      "playlist": "game"
+    },
+    {
+      "file": "khmer-medieval-002.mp3",
+      "asset": "e35faff1b10d6291a4654c67d0a5601b621ae8719067b2dfb2856a1f3334304b/khmer-medieval-002.mp3",
+      "sha256": "e35faff1b10d6291a4654c67d0a5601b621ae8719067b2dfb2856a1f3334304b",
+      "bytes": 3818683,
+      "playlist": "game"
+    },
+    {
+      "file": "khmer-modern-001.mp3",
+      "asset": "3848e62764dbef949bbf3d98d3773df1a550b3b228fa7e3db703f7cb94dcb654/khmer-modern-001.mp3",
+      "sha256": "3848e62764dbef949bbf3d98d3773df1a550b3b228fa7e3db703f7cb94dcb654",
+      "bytes": 4237478,
+      "playlist": "game"
+    },
+    {
+      "file": "khmer-modern-002.mp3",
+      "asset": "ff12b0ac31fb04f5422fa160a7ea1a7927f44d0d7728efd7c77a4a38fea7b6ac/khmer-modern-002.mp3",
+      "sha256": "ff12b0ac31fb04f5422fa160a7ea1a7927f44d0d7728efd7c77a4a38fea7b6ac",
+      "bytes": 4244374,
+      "playlist": "game"
+    },
+    {
+      "file": "mali-ancient-001.mp3",
+      "asset": "42119eb556892e326393aae482e4c3f1d1c49a9cd04db79008c674907d4f593c/mali-ancient-001.mp3",
+      "sha256": "42119eb556892e326393aae482e4c3f1d1c49a9cd04db79008c674907d4f593c",
+      "bytes": 4151587,
+      "playlist": "game"
+    },
+    {
+      "file": "mali-ancient-002.mp3",
+      "asset": "781d253610ddc81b13501aea75757a2754f024b6ff6305a3cf8943c63a63d860/mali-ancient-002.mp3",
+      "sha256": "781d253610ddc81b13501aea75757a2754f024b6ff6305a3cf8943c63a63d860",
+      "bytes": 4340923,
+      "playlist": "game"
+    },
+    {
+      "file": "mali-medieval-001.mp3",
+      "asset": "25845692f15ce374bd20f9ef34168c8b665f72a553f3bd98549feae7150133c0/mali-medieval-001.mp3",
+      "sha256": "25845692f15ce374bd20f9ef34168c8b665f72a553f3bd98549feae7150133c0",
+      "bytes": 4297037,
+      "playlist": "game"
+    },
+    {
+      "file": "mali-medieval-002.mp3",
+      "asset": "15e7356fd600f2620b42a405c9ac3bc16dabb50e331105ce69ff99a89ea1a769/mali-medieval-002.mp3",
+      "sha256": "15e7356fd600f2620b42a405c9ac3bc16dabb50e331105ce69ff99a89ea1a769",
+      "bytes": 3789217,
+      "playlist": "game"
+    },
+    {
+      "file": "mali-modern-001.mp3",
+      "asset": "3d4d519f825c89bcd5a11411c445a6fc9cb8cf972e20ea52268950e231511cdd/mali-modern-001.mp3",
+      "sha256": "3d4d519f825c89bcd5a11411c445a6fc9cb8cf972e20ea52268950e231511cdd",
+      "bytes": 4255032,
+      "playlist": "game"
+    },
+    {
+      "file": "mali-modern-002.mp3",
+      "asset": "7d58020928abb122e4593101441d35022a3a5358cc373db7979649a0b4619a3e/mali-modern-002.mp3",
+      "sha256": "7d58020928abb122e4593101441d35022a3a5358cc373db7979649a0b4619a3e",
+      "bytes": 4271332,
+      "playlist": "game"
+    },
+    {
+      "file": "maya-ancient-001.mp3",
+      "asset": "8d6c3809b2bdfb5e7e463d1872df71d7342047b8ab10dea2d3fbb7d6b3fffa9f/maya-ancient-001.mp3",
+      "sha256": "8d6c3809b2bdfb5e7e463d1872df71d7342047b8ab10dea2d3fbb7d6b3fffa9f",
+      "bytes": 4254405,
+      "playlist": "game"
+    },
+    {
+      "file": "maya-ancient-002.mp3",
+      "asset": "189d5da7060606d4d53a5477156a68e38afc2035727f18564b5cfc043d989871/maya-ancient-002.mp3",
+      "sha256": "189d5da7060606d4d53a5477156a68e38afc2035727f18564b5cfc043d989871",
+      "bytes": 3826206,
+      "playlist": "game"
+    },
+    {
+      "file": "maya-medieval-001.mp3",
+      "asset": "f3208e43b786346bcdc53192cefb02f4d820d8f029ff227a477c220f8445c8fc/maya-medieval-001.mp3",
+      "sha256": "f3208e43b786346bcdc53192cefb02f4d820d8f029ff227a477c220f8445c8fc",
+      "bytes": 4299545,
+      "playlist": "game"
+    },
+    {
+      "file": "maya-medieval-002.mp3",
+      "asset": "d01576ad9c9cdd47d68a881a60682176430efeaf3b7c9e39646aba3e59d1ceb2/maya-medieval-002.mp3",
+      "sha256": "d01576ad9c9cdd47d68a881a60682176430efeaf3b7c9e39646aba3e59d1ceb2",
+      "bytes": 4046261,
+      "playlist": "game"
+    },
+    {
+      "file": "maya-modern-001.mp3",
+      "asset": "08b67b87ef0bbcea75ee404a6aa46c65c4827d4c4027d469e805261c6595c7ff/maya-modern-001.mp3",
+      "sha256": "08b67b87ef0bbcea75ee404a6aa46c65c4827d4c4027d469e805261c6595c7ff",
+      "bytes": 4377285,
+      "playlist": "game"
+    },
+    {
+      "file": "maya-modern-002.mp3",
+      "asset": "d2a57e7c48cd64d81611986c5bd67fc4c91c4f20847120d8c3d741686efc06a3/maya-modern-002.mp3",
+      "sha256": "d2a57e7c48cd64d81611986c5bd67fc4c91c4f20847120d8c3d741686efc06a3",
+      "bytes": 4300799,
+      "playlist": "game"
+    },
+    {
+      "file": "mongolia-ancient-001.mp3",
+      "asset": "ed5bdbef4c0223e50162656c2f8170487cc8d3fe40fcc8716e3cbbde0579c2b1/mongolia-ancient-001.mp3",
+      "sha256": "ed5bdbef4c0223e50162656c2f8170487cc8d3fe40fcc8716e3cbbde0579c2b1",
+      "bytes": 3816802,
+      "playlist": "game"
+    },
+    {
+      "file": "mongolia-ancient-002.mp3",
+      "asset": "97eed6c291d9b7357d25d3bd1b61276759d0616bd3479c6b838479e7200293a4/mongolia-ancient-002.mp3",
+      "sha256": "97eed6c291d9b7357d25d3bd1b61276759d0616bd3479c6b838479e7200293a4",
+      "bytes": 4332146,
+      "playlist": "game"
+    },
+    {
+      "file": "mongolia-medieval-001.mp3",
+      "asset": "9fdd398512d1f087069d03551bc3714ecd97db9a465d9f634d0dc2e896d5f676/mongolia-medieval-001.mp3",
+      "sha256": "9fdd398512d1f087069d03551bc3714ecd97db9a465d9f634d0dc2e896d5f676",
+      "bytes": 4335907,
+      "playlist": "game"
+    },
+    {
+      "file": "mongolia-medieval-002.mp3",
+      "asset": "8ff0e57601476218d3b6fd35ba4501dd9d7bad800efd968a558614f9afde17d2/mongolia-medieval-002.mp3",
+      "sha256": "8ff0e57601476218d3b6fd35ba4501dd9d7bad800efd968a558614f9afde17d2",
+      "bytes": 4266317,
+      "playlist": "game"
+    },
+    {
+      "file": "mongolia-modern-001.mp3",
+      "asset": "eed5a38783c9b17bacd3458fe2f879686dbef148338d7c6a5b90320a422b3468/mongolia-modern-001.mp3",
+      "sha256": "eed5a38783c9b17bacd3458fe2f879686dbef148338d7c6a5b90320a422b3468",
+      "bytes": 4359731,
+      "playlist": "game"
+    },
+    {
+      "file": "mongolia-modern-002.mp3",
+      "asset": "7bcb07d171b4ec186998567dd2cca5f79b019c734b9d01087e82e9b75f27c55f/mongolia-modern-002.mp3",
+      "sha256": "7bcb07d171b4ec186998567dd2cca5f79b019c734b9d01087e82e9b75f27c55f",
+      "bytes": 4232462,
+      "playlist": "game"
+    },
+    {
+      "file": "persia-ancient-001.mp3",
+      "asset": "a2ee7698bab7a20f48d7adfc7cd7dedc1dea6bc99b43eb1e07463a75112db4d8/persia-ancient-001.mp3",
+      "sha256": "a2ee7698bab7a20f48d7adfc7cd7dedc1dea6bc99b43eb1e07463a75112db4d8",
+      "bytes": 3902066,
+      "playlist": "game"
+    },
+    {
+      "file": "persia-ancient-002.mp3",
+      "asset": "eec7cff12a41813667d4dc32c21404f8e7c69afaf2b8e6d9c05d8cb38bad780e/persia-ancient-002.mp3",
+      "sha256": "eec7cff12a41813667d4dc32c21404f8e7c69afaf2b8e6d9c05d8cb38bad780e",
+      "bytes": 3858807,
+      "playlist": "game"
+    },
+    {
+      "file": "persia-medieval-001.mp3",
+      "asset": "ba0044f8cecabaa444d5e40a498411af27897d45baf6eccf053c19f1e7196bcd/persia-medieval-001.mp3",
+      "sha256": "ba0044f8cecabaa444d5e40a498411af27897d45baf6eccf053c19f1e7196bcd",
+      "bytes": 4293902,
+      "playlist": "game"
+    },
+    {
+      "file": "persia-medieval-002.mp3",
+      "asset": "d839c450a5e3cf4ccf0c3cba5b71a569fc708c3f7caa83de23c028653bcc40c6/persia-medieval-002.mp3",
+      "sha256": "d839c450a5e3cf4ccf0c3cba5b71a569fc708c3f7caa83de23c028653bcc40c6",
+      "bytes": 4292021,
+      "playlist": "game"
+    },
+    {
+      "file": "persia-modern-001.mp3",
+      "asset": "e0169dd4930e64107150ecdd63c84ef14200706033648019d91d7680df075f99/persia-modern-001.mp3",
+      "sha256": "e0169dd4930e64107150ecdd63c84ef14200706033648019d91d7680df075f99",
+      "bytes": 4294529,
+      "playlist": "game"
+    },
+    {
+      "file": "persia-modern-002.mp3",
+      "asset": "a199809fc2b40b20ce38ac0ad06cc90e862c45f7c8faaa05e73297fc2a7838fe/persia-modern-002.mp3",
+      "sha256": "a199809fc2b40b20ce38ac0ad06cc90e862c45f7c8faaa05e73297fc2a7838fe",
+      "bytes": 3991091,
+      "playlist": "game"
+    },
+    {
+      "file": "phoenicia-ancient-001.mp3",
+      "asset": "8daa17e8d9aa6ca2ac3b7c830774376f29ddb64189ff2f4d49ee08b74d6a9761/phoenicia-ancient-001.mp3",
+      "sha256": "8daa17e8d9aa6ca2ac3b7c830774376f29ddb64189ff2f4d49ee08b74d6a9761",
+      "bytes": 4170395,
+      "playlist": "game"
+    },
+    {
+      "file": "phoenicia-ancient-002.mp3",
+      "asset": "05e842ebc509c7127829122fedc395d3ea64c1fc1219e7d1b032e18f4837ab25/phoenicia-ancient-002.mp3",
+      "sha256": "05e842ebc509c7127829122fedc395d3ea64c1fc1219e7d1b032e18f4837ab25",
+      "bytes": 4350327,
+      "playlist": "game"
+    },
+    {
+      "file": "phoenicia-medieval-001.mp3",
+      "asset": "dc3e7eb1e05ce2edd46fc8b85d1083ea27df8a2e4d9ad055763566e2d7e04764/phoenicia-medieval-001.mp3",
+      "sha256": "dc3e7eb1e05ce2edd46fc8b85d1083ea27df8a2e4d9ad055763566e2d7e04764",
+      "bytes": 4255659,
+      "playlist": "game"
+    },
+    {
+      "file": "phoenicia-medieval-002.mp3",
+      "asset": "44e07981390a57f3e674c9fc87c55e7327704687e31b7733dfab9c03fb1aeeab/phoenicia-medieval-002.mp3",
+      "sha256": "44e07981390a57f3e674c9fc87c55e7327704687e31b7733dfab9c03fb1aeeab",
+      "bytes": 4312710,
+      "playlist": "game"
+    },
+    {
+      "file": "phoenicia-modern-001.mp3",
+      "asset": "e51e4c5d091caa19a1176c2790a93604238eeb0569b8aefae83d634801819386/phoenicia-modern-001.mp3",
+      "sha256": "e51e4c5d091caa19a1176c2790a93604238eeb0569b8aefae83d634801819386",
+      "bytes": 4303306,
+      "playlist": "game"
+    },
+    {
+      "file": "phoenicia-modern-002.mp3",
+      "asset": "9a0ad266a8a8f93546d236ea42a3b17a66d230c0dc44a35e2170948961d55f34/phoenicia-modern-002.mp3",
+      "sha256": "9a0ad266a8a8f93546d236ea42a3b17a66d230c0dc44a35e2170948961d55f34",
+      "bytes": 4289514,
+      "playlist": "game"
+    },
+    {
+      "file": "rome-ancient-001.mp3",
+      "asset": "2a28e0766bf9cad4b96b0fa691bfa596425f1732d0aa175807759287dd0797e8/rome-ancient-001.mp3",
+      "sha256": "2a28e0766bf9cad4b96b0fa691bfa596425f1732d0aa175807759287dd0797e8",
+      "bytes": 4369135,
+      "playlist": "game"
+    },
+    {
+      "file": "rome-ancient-002.mp3",
+      "asset": "2beeca98882642d1e388f09575c09afb3838a72cdd94c0a51e6609fc51e9bf28/rome-ancient-002.mp3",
+      "sha256": "2beeca98882642d1e388f09575c09afb3838a72cdd94c0a51e6609fc51e9bf28",
+      "bytes": 4285752,
+      "playlist": "game"
+    },
+    {
+      "file": "rome-medieval-001.mp3",
+      "asset": "a2805cd24ba023ee8a99733c4ffef5211a0707973b3f2e32ed40d13c10aa1a75/rome-medieval-001.mp3",
+      "sha256": "a2805cd24ba023ee8a99733c4ffef5211a0707973b3f2e32ed40d13c10aa1a75",
+      "bytes": 4245628,
+      "playlist": "game"
+    },
+    {
+      "file": "rome-medieval-002.mp3",
+      "asset": "b72206bac6825813c60a5dc307111f11864242210de4ea0d55fa95a63698929c/rome-medieval-002.mp3",
+      "sha256": "b72206bac6825813c60a5dc307111f11864242210de4ea0d55fa95a63698929c",
+      "bytes": 3779812,
+      "playlist": "game"
+    },
+    {
+      "file": "rome-modern-001.mp3",
+      "asset": "0dd3fef95e12639c5e19d3d7735d5b94efc3251243f55bc7331b3a3ed9149fe3/rome-modern-001.mp3",
+      "sha256": "0dd3fef95e12639c5e19d3d7735d5b94efc3251243f55bc7331b3a3ed9149fe3",
+      "bytes": 4175411,
+      "playlist": "game"
+    },
+    {
+      "file": "rome-modern-002.mp3",
+      "asset": "3ab6401026ec264e500d4a048e00235a7ae4312ee0581bddf911b7d7157f123a/rome-modern-002.mp3",
+      "sha256": "3ab6401026ec264e500d4a048e00235a7ae4312ee0581bddf911b7d7157f123a",
+      "bytes": 4320234,
+      "playlist": "game"
+    },
+    {
+      "file": "rus-ancient-001.mp3",
+      "asset": "ba51fc5fe0e4d64874845e315753f3eb0b27c822032159b0695da166e67765b4/rus-ancient-001.mp3",
+      "sha256": "ba51fc5fe0e4d64874845e315753f3eb0b27c822032159b0695da166e67765b4",
+      "bytes": 4340923,
+      "playlist": "game"
+    },
+    {
+      "file": "rus-ancient-002.mp3",
+      "asset": "a83d0fc1285557986bddee261a34a520dae3fcf64b6eb75f41d514d346a1c878/rus-ancient-002.mp3",
+      "sha256": "a83d0fc1285557986bddee261a34a520dae3fcf64b6eb75f41d514d346a1c878",
+      "bytes": 3875107,
+      "playlist": "game"
+    },
+    {
+      "file": "rus-medieval-001.mp3",
+      "asset": "c055b62c0e2b7f952ba5f0f540f8c2ebe1076676ab77e3b455c4b555f8e46d9e/rus-medieval-001.mp3",
+      "sha256": "c055b62c0e2b7f952ba5f0f540f8c2ebe1076676ab77e3b455c4b555f8e46d9e",
+      "bytes": 4339669,
+      "playlist": "game"
+    },
+    {
+      "file": "rus-medieval-002.mp3",
+      "asset": "468a8078b4bad10d64720f1fdb0e40edd6a3b69ebab62eee263791934716b5ed/rus-medieval-002.mp3",
+      "sha256": "468a8078b4bad10d64720f1fdb0e40edd6a3b69ebab62eee263791934716b5ed",
+      "bytes": 4340296,
+      "playlist": "game"
+    },
+    {
+      "file": "rus-modern-001.mp3",
+      "asset": "1bf3efceeaa569790858e16fe123dcd14037d6e7f96699748f9fa5c5b564ded9/rus-modern-001.mp3",
+      "sha256": "1bf3efceeaa569790858e16fe123dcd14037d6e7f96699748f9fa5c5b564ded9",
+      "bytes": 4295156,
+      "playlist": "game"
+    },
+    {
+      "file": "rus-modern-002.mp3",
+      "asset": "c439681a649d4404768f4991683000ba7eafe75469a725d9fbda751f01838a09/rus-modern-002.mp3",
+      "sha256": "c439681a649d4404768f4991683000ba7eafe75469a725d9fbda751f01838a09",
+      "bytes": 4357223,
+      "playlist": "game"
+    },
+    {
+      "file": "sumer-ancient-001.mp3",
+      "asset": "aa9dce4145596eb22de56ce75b70129eef8a57595e9ace6a60c280877854c1d1/sumer-ancient-001.mp3",
+      "sha256": "aa9dce4145596eb22de56ce75b70129eef8a57595e9ace6a60c280877854c1d1",
+      "bytes": 4254405,
+      "playlist": "game"
+    },
+    {
+      "file": "sumer-ancient-002.mp3",
+      "asset": "4843b609bf4ef1e16c783cbd8c2943f458ebe8819aba12717c0f0155d346d7f6/sumer-ancient-002.mp3",
+      "sha256": "4843b609bf4ef1e16c783cbd8c2943f458ebe8819aba12717c0f0155d346d7f6",
+      "bytes": 4302679,
+      "playlist": "game"
+    },
+    {
+      "file": "sumer-medieval-001.mp3",
+      "asset": "99eedf6cdb3e1e56669c2ed313f0d74cd3233cf1499fc7e5191a7c2d6c06dbc2/sumer-medieval-001.mp3",
+      "sha256": "99eedf6cdb3e1e56669c2ed313f0d74cd3233cf1499fc7e5191a7c2d6c06dbc2",
+      "bytes": 3867584,
+      "playlist": "game"
+    },
+    {
+      "file": "sumer-medieval-002.mp3",
+      "asset": "13a7cd7daddeb1e364f9c492840ae1a3fad1585379608564f5a14c1c8e70d969/sumer-medieval-002.mp3",
+      "sha256": "13a7cd7daddeb1e364f9c492840ae1a3fad1585379608564f5a14c1c8e70d969",
+      "bytes": 4327757,
+      "playlist": "game"
+    },
+    {
+      "file": "sumer-modern-001.mp3",
+      "asset": "4f2dc00b686217d6b03ee7959f7a7fe4fc5eb8e77e2a8a366f7066314c7302e7/sumer-modern-001.mp3",
+      "sha256": "4f2dc00b686217d6b03ee7959f7a7fe4fc5eb8e77e2a8a366f7066314c7302e7",
+      "bytes": 4256913,
+      "playlist": "game"
+    },
+    {
+      "file": "sumer-modern-002.mp3",
+      "asset": "70c2f1013eeb3a7ae4359f8c1bbec0b9bca2ba5c56a12340f5088ff569c0b105/sumer-modern-002.mp3",
+      "sha256": "70c2f1013eeb3a7ae4359f8c1bbec0b9bca2ba5c56a12340f5088ff569c0b105",
+      "bytes": 4268198,
+      "playlist": "game"
+    },
+    {
+      "file": "global-title-001.mp3",
+      "asset": "3a798c089d8c0c9f404152e177349c99cc45bafd55b1828e9882fdd59d0b83a2/global-title-001.mp3",
+      "sha256": "3a798c089d8c0c9f404152e177349c99cc45bafd55b1828e9882fdd59d0b83a2",
+      "bytes": 2853197,
+      "playlist": "menu"
+    }
+  ]
+}
