@@ -478,7 +478,7 @@ The in-game Codex contains the following current entries.
 | [ / ] | Switch cities |
 | R | Research |
 | M | Macros |
-| C | Cities |
+| C | Capital |
 | Tab / Shift + Tab | Switch action tabs |
 | A / 1–6 | Advisors |
 | H | Help |
