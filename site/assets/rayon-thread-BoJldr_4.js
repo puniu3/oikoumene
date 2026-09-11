@@ -1,0 +1,1 @@
+self.onmessage=async({data:r})=>{try{const e=await import("./notciv_wasm-2WOslQTV.js");await e.default({module_or_path:r.module,memory:r.memory}),self.onmessage=()=>e.wbg_rayon_start_worker(r.receiver),self.postMessage({ready:!0})}catch(e){self.postMessage({error:String(e)})}};
