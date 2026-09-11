@@ -465,14 +465,40 @@ The in-game Codex contains the following current entries.
 - **Reach:** Shows how far an Army can project power from the selected city.
 - **Projection:** Colors each tile by the strongest Army projection.
 
+## Keyboard
+
+| Key | Action |
+| --- | --- |
+| Arrow keys | Move the map cursor |
+| J / K | Select an action |
+| Shift + J / K | Jump to the next / previous action category |
+| Enter / Space | Execute |
+| U | Undo |
+| E | End turn |
+| [ / ] | Switch cities |
+| R | Research |
+| M | Macros |
+| C | Cities |
+| Tab / Shift + Tab | Switch action tabs |
+| A / 1–6 | Advisors |
+| H | Help |
+| L | Log |
+| V | Reach |
+| B | Projection |
+| Esc | Back / close the open panel |
+| + / = | Zoom in |
+| − | Zoom out |
+| 0 | Fit the map |
+| Q | Back to the menu |
+
 # Player interface and diagnostics
 
 This appendix records player-visible behavior that is not fully described by the Rules, Codex, or Controls. It is not a second rules source.
 
 - **Contextual actions:** Select one of your cities to see that city's actions. Select eligible land in a province whose city you own to see its Claim or Clear action. Select an empty city site to see Settle actions for that site, or a rival city to see an available siege macro for that target. Selecting a city name also selects and centers that city.
-- **Research and Macros:** The number beside `Research` or `Macros` is the number of actions that can be executed now; a count of zero can still be opened. Macros are currently legal multi-action convenience bundles, not strategic recommendations, and their stable order is not a strength ranking.
+- **Action tabs:** From left to right, the building icon opens Cities, the flask opens Research, and the folded map opens Macros. The active tab joins the action panel below it. The number beside the Research or Macros icon is the number of actions that can be executed now; a count of zero can still be opened. Macros are currently legal multi-action convenience bundles, not strategic recommendations, and their stable order is not a strength ranking.
 - **Visible, disabled, and absent actions:** An otherwise available but unaffordable action stays visible with its price and no redundant insufficient-money reason. Other blockers may keep a row disabled and replace its detail with a reason. Exhausted claim/clear and growth groups are replaced by status text. A full building group is replaced only when no available upgrade can reuse its base building's slot. Content not yet unlocked by technology can be absent.
-- **Temporary action gates:** A pending policy choice replaces ordinary actions and gates `Research`, `Macros`, and `End turn` until it is resolved. During the end-of-turn reveal, ordinary actions are replaced by a reveal status. A selection with no applicable action shows guidance to select an actionable target.
+- **Temporary action gates:** A pending policy choice replaces ordinary actions and gates all action tabs and `End turn` until it is resolved. During the end-of-turn reveal, ordinary actions are replaced by a reveal status. A selection with no applicable action shows guidance to select an actionable target.
 - **City diagnostics:** The city panel (available only for your own cities) shows level and experience progress, population, income, building slots used and total, Army count and limit, Fleet count and limit for coastal cities, built buildings, and siege pressure when present. A Grow row shows its price and the population and experience that action will add after current policy and building effects.
 - **Direction and projection diagnostics:** Move is listed on the selected source city and names the destination. A city-side Settle row names its target; a site-side Settle row also names its source city. With map overlays off, selecting an occupied city or Minor Power shows its Defense breakdown and any attacker or tied attackers with the strongest projection. In Projection, selecting a tile shows every empire's Army projection there, or Fleet projection on water.
 
